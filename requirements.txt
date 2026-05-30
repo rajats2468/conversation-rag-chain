@@ -10,3 +10,4 @@ langchain-ollama
 langchain_huggingface
 torchvision
 bs4
+sentence_transformers
