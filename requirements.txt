@@ -7,3 +7,5 @@ faiss-cpu
 langchain-core
 langchain-groq
 langchain-ollama
+langchain-huggingface
+torchvision
