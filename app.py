@@ -16,8 +16,8 @@ load_dotenv()
 import streamlit as st
 import bs4
 
-groq_api_key = st.secrets("GROQ_API_KEY")
-os.environ['HF_TOKEN'] = st.secrets("HF_TOKEN")
+groq_api_key = st.secrets["GROQ_API_KEY"]
+os.environ['HF_TOKEN'] = st.secrets["HF_TOKEN"]
 
 st.set_page_config(page_title="AI analyzer",page_icon=":robot_face:")
 st.title("AI Blog Analyzer")
