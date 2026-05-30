@@ -9,3 +9,4 @@ langchain-groq
 langchain-ollama
 langchain_huggingface
 torchvision
+bs4
